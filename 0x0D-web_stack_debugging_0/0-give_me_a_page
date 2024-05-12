@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# fixes an issue by starting Apache
+service apache2 start
