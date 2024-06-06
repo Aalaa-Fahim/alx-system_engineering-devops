@@ -2,6 +2,8 @@
 """
 queries the Reddit API for a given subreddit
 """
+
+
 import requests
 from sys import argv
 
